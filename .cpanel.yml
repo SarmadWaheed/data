@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/internpractice/public_html/
+    - /bin/cp * $DEPLOYPATH
+   
