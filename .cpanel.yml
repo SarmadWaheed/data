@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/internpractice/phpMyAdmin/
+    - export DEPLOYPATH=/home/internpractice/phpMyAdmin/internpr_wordpress1
     - /bin/cp * $DEPLOYPATH
    
