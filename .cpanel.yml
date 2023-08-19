@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/internpractice/public_html/
+    - export DEPLOYPATH=/home/internpractice/phpMyAdmin/
     - /bin/cp * $DEPLOYPATH
    
